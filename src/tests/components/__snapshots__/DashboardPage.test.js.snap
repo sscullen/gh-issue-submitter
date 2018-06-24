@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render expense expense dashboard page 1`] = `
+<div>
+  <h1>
+    Dashbaord Component here
+  </h1>
+</div>
+`;
